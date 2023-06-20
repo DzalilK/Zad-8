@@ -1,0 +1,15 @@
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\bin\Debug\net7.0\Zad-8.exe
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\bin\Debug\net7.0\Zad-8.deps.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\bin\Debug\net7.0\Zad-8.runtimeconfig.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\bin\Debug\net7.0\Zad-8.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\bin\Debug\net7.0\Zad-8.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.csproj.AssemblyReference.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.AssemblyInfoInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.AssemblyInfo.cs
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.csproj.CoreCompileInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\refint\Zad-8.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\Zad-8.genruntimeconfig.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H_work\Zad-8\obj\Debug\net7.0\ref\Zad-8.dll
